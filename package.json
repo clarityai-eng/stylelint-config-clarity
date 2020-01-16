@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Clarity stylelint shareable config",
-  "main": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo 'body {}' | stylelint"
   },
