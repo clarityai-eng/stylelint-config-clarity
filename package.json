@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-config-clarity",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clarity stylelint shareable config",
+  "main": "",
+  "scripts": {
+    "test": "echo 'body {}' | stylelint"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.0.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-order": "^4.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clarityai-eng/stylelint-config-clarity.git"
+  },
+  "dependencies": {
+    "stylelint": "^13.0.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-order": "^4.0.0"
+  }
+}
